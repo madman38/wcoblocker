@@ -4,7 +4,7 @@
 
 # WCOBlocker
 
-| Browser   | Status |
+| Browser   | Install from ... |
 | :-------: | ------ |
 | <img src="https://github.com/user-attachments/assets/b0136512-56a5-4856-8c50-4971c957a24f" alt="Get WCO Blocker for Firefox"> | <a href="https://addons.mozilla.org/addon/wco-blocker/">Get WCO Blocker for Firefox</a>
 
