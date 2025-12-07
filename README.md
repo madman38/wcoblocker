@@ -4,6 +4,10 @@
 
 # WCOBlocker
 
+| Browser   | Status |
+| :-------: | ------ |
+| <img src="https://github.com/user-attachments/assets/b0136512-56a5-4856-8c50-4971c957a24f" alt="Get WCO Blocker for Firefox"> | <a href="https://addons.mozilla.org/addon/wco-blocker/">Get WCO Blocker for Firefox</a>
+
 WCO Blocker is a Firefox extension that blocks 10-second nagscreens appearing before every video, allowing users to access the content instantly.
 
 ## Contributing
